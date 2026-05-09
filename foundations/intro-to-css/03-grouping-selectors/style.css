@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.black,
+.yellow {
+    height: 100px;
+    width: 200px;
+    font-size: 25px;
+}
+
+.black {
+    color:white;
+    background-color: black;
+}
+
+.yellow {
+    color: black;
+    background-color: yellow;
+}
